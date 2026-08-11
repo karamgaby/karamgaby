@@ -1,6 +1,6 @@
 # Gaby Karam
 
-**Senior Software Engineer** · Beirut, Lebanon · open to remote
+**Senior Software Engineer** · Beirut, Lebanon · working remotely since 2022
 
 I build and maintain production systems — APIs, data models, and the tooling around
 them. 8+ years shipping software that other people depend on.
