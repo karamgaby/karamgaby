@@ -23,4 +23,4 @@ architecture, build tooling, and shared linting standards.
 
 ### Contact
 
-[gabykaram.com](https://gabykaram.com) · [LinkedIn](https://linkedin.com/in/gabykaram) · [gkaramgk94@gmail.com](mailto:gkaramgk94@gmail.com)
+[gabykaram.com](https://gabykaram.com) · [LinkedIn](https://linkedin.com/in/gabykaram) · [info@gabykaram.com](mailto:info@gabykaram.com)
